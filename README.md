@@ -1,5 +1,5 @@
 # Hello, I am Kayla Rautenbach
-## Welcome to My First GitHub Page
+## Welcome to my online CV
 
 I am currently part of the Dimension Data GAP 2020 program. 
 
@@ -17,7 +17,7 @@ I am currently part of the Dimension Data GAP 2020 program.
 
  I am eager to learn as much as possible this year and in some way make a difference. I would love to get involved in Connected Conservation. 
 
-## Skills
+### Skills
  
  I am hard working and a good problem solver. I have completed my Agile SAFe training. 
  
