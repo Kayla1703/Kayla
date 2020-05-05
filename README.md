@@ -7,7 +7,7 @@ I am currently part of the Dimension Data GAP 2020 program.
 
  I am 25 years old and I grew up in Underberg, KZN. I went to boarding school in Pietermaritzburg at The Wykeham Collegiate and I then went on to study at Stellenbosch University. I did a Bachelor of Science in Biodiversity and Ecology. 
  
- After graduating, I went to Vietnam and taught English there for 18 months. I then found myself working at Londolozi Game reserve for another 18 months in the hospitality industry. 
+ After graduating, I went to Vietnam and taught English there for 18 months. I then found myself working at Londolozi Game Reserve for another 18 months in the hospitality industry. 
 
 ### Projects
 
