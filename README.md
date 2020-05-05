@@ -13,6 +13,10 @@ I am currently part of the Dimension Data GAP 2020 program.
 
  We rotate throughout Dimension Data and we have already been in the Digital Advisory space, spent time with the Customer Experience Team and we have been through the Sales department. I look forward to what the rest of the year has in store, whether it be virtual or back at The Campus. 
  
+ ### Skills
+ 
+ I am hard working and a good problem solver. I have completed my Agile SAFe training. 
+ 
 ### Goals
 
  I am eager to learn as much as possible this year and in some way make a difference. I would love to get involved in Connected Conservation. 
