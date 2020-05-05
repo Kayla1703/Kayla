@@ -22,11 +22,19 @@ My interests are diverse. I am passionate about animals and the outdoors and wou
 ### Personal attributes
  
 ►	Excellent writing and communication skills - able to analyse, formulate and present information.
+
 ►	Confident, friendly extrovert who understands the importance of people relationships in business environments.
-►	Proficient in the use of MS Office (Word/PowerPoint/Outlook/Excel) and technologically competent (Computer skills 171, Stellenbosch    University 2014)
+
+►	Proficient in the use of MS Office (Word/PowerPoint/Outlook/Excel) and technologically competent (Computer skills 171, Stellenbosch    University 2014).
+
+► I have completed SAFe training. 
+
 ►	Confident with statistical analysis (Two university modules, BDE 212 and Mathematics (bio) 214, Stellenbosch University 2015).
+
 ►	Uses own initiative and works well without supervision. I am always willing to learn new skills.
+
 ►	Well-organised with good time management skills. 
+
 ►	Can work well in a team.
 
 
