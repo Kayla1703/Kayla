@@ -7,7 +7,7 @@ I am 25 years old and I grew up in Underberg, KZN. I went to boarding school in 
  
 After graduating, I went to Vietnam and taught English there for 18 months. I then found myself working at Londolozi Game Reserve for another 18 months in the hospitality industry. 
  
- ### More about me
+### More about me
  
 My interests are diverse. I am passionate about animals and the outdoors and would like to give back to our world in some way “to make a difference.” I am excited about new challenges and am looking forward to being able to use my interpersonal skills and ability to contribute to the success of the institution that employs me. I am a well-balanced, calm individual with a great sense of loyalty to whatever I commit to. I consider myself to be organized, conscientious and a person of integrity. I am a hardworker and a good problem solver. I am eager to learn as much as possible this year and I would love to get involved in Connected Conservation. 
 
