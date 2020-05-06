@@ -3,21 +3,23 @@
 
 I am currently part of the Dimension Data GAP 2020 program. 
 
-### More about me
-
- I am 25 years old and I grew up in Underberg, KZN. I went to boarding school in Pietermaritzburg at The Wykeham Collegiate and I then went on to study at Stellenbosch University. I did a Bachelor of Science in Biodiversity and Ecology. 
+I am 25 years old and I grew up in Underberg, KZN. I went to boarding school in Pietermaritzburg at The Wykeham Collegiate and I then went on to study at Stellenbosch University. I did a Bachelor of Science in Biodiversity and Ecology. 
  
- After graduating, I went to Vietnam and taught English there for 18 months. I then found myself working at Londolozi Game Reserve for another 18 months in the hospitality industry. 
+After graduating, I went to Vietnam and taught English there for 18 months. I then found myself working at Londolozi Game Reserve for another 18 months in the hospitality industry. 
+ 
+ ### More about me
+ 
+My interests are diverse. I am passionate about animals and the outdoors and would like to give back to our world in some way “to make a difference.” I am excited about new challenges and am looking forward to being able to use my interpersonal skills and ability to contribute to the success of the institution that employs me. I am a well-balanced, calm individual with a great sense of loyalty to whatever I commit to. I consider myself to be organized, conscientious and a person of integrity. I am a hardworker and a good problem solver. I am eager to learn as much as possible this year and I would love to get involved in Connected Conservation. 
 
 ### Projects 
 
- We rotate throughout Dimension Data and we have already been in the Digital Advisory space, spent time with the Customer Experience Team and we have been through the Sales department. I look forward to what the rest of the year has in store, whether it be virtual or back at The Campus. 
- 
-### Goals
+► Digital Advisory: How would we go about taking PPS on an agile transformation journey?
 
-My interests are diverse. I am passionate about animals and the outdoors and would like to give back to our world in some way “to make a difference.” I am excited about new challenges and am looking forward to being able to use my interpersonal skills and ability to contribute to the success of the institution that employs me. I am a well-balanced, calm individual with a great sense of loyalty to whatever I commit to. I consider myself to be organized, conscientious and a person of integrity. 
+► CX Team: How would we advise SAPS with regards to digital CX in a post Covid 19 world?
 
- I am eager to learn as much as possible this year and in some way make a difference. I would love to get involved in Connected Conservation. 
+► Sales: The affects of Covid 19 on the various sectors and go to markets of Dimension Data.
+
+► IW team: Setting up GitHub and Doctrina. 
 
 ### Personal attributes 
  
@@ -27,7 +29,7 @@ My interests are diverse. I am passionate about animals and the outdoors and wou
 
 ►	Proficient in the use of MS Office (Word/PowerPoint/Outlook/Excel) and technologically competent (Computer skills 171, Stellenbosch    University 2014).
 
-► I have completed SAFe training. 
+► Certified SAFe 5 Agilist. 
 
 ►	Confident with statistical analysis (Two university modules, BDE 212 and Mathematics (bio) 214, Stellenbosch University 2015).
 
@@ -37,5 +39,10 @@ My interests are diverse. I am passionate about animals and the outdoors and wou
 
 ►	Can work well in a team.
 
+### Contact Infomation
 
+Location: The Campus, 57 Sloane St. Bryanston 
+Email: kayla.rautenbach@dimensiondata.com
+Cell: +72 72 285 1600
+Work: +27 11 575 8759
 
