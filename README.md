@@ -42,7 +42,10 @@ My interests are diverse. I am passionate about animals and the outdoors and wou
 ### Contact Information
 
 Location: The Campus, 57 Sloane St. Bryanston 
+
 Email: kayla.rautenbach@dimensiondata.com
+
 Cell: +72 72 285 1600
+
 Work: +27 11 575 8759
 
