@@ -39,7 +39,7 @@ My interests are diverse. I am passionate about animals and the outdoors and wou
 
 ►	Can work well in a team.
 
-### Contact Infomation
+### Contact Information
 
 Location: The Campus, 57 Sloane St. Bryanston 
 Email: kayla.rautenbach@dimensiondata.com
