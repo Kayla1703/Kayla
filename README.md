@@ -1,6 +1,8 @@
 # Hello, I am Kayla Rautenbach
 ## Welcome to my online CV
 
+![image](https://github.com/Kayla1703/Kayla/blob/master/Kayla%20profile%20picture.JPG)
+
 I am currently part of the Dimension Data GAP 2020 program. 
 
 I am 25 years old and I grew up in Underberg, KZN. I went to boarding school in Pietermaritzburg at The Wykeham Collegiate and I then went on to study at Stellenbosch University. I did a Bachelor of Science in Biodiversity and Ecology. 
