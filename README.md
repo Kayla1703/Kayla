@@ -1,7 +1,7 @@
 # Hello, I am Kayla Rautenbach
 ## Welcome to my online CV
 
-![image](https://github.com/Kayla1703/Kayla/blob/master/Kayla%20profile%20picture.JPG)
+![Kayla profile picture](https://user-images.githubusercontent.com/64774987/81267876-764c2180-9047-11ea-8344-5bbad7bd6c1b.JPG)
 
 I am currently part of the Dimension Data GAP 2020 program. 
 
