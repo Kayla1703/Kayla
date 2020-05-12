@@ -22,6 +22,7 @@ My interests are diverse. I am passionate about animals and the outdoors and wou
 ► Sales: The affects of Covid 19 on the various sectors and go to markets of Dimension Data.
 
 ► IW team: Setting up GitHub and Doctrina. 
+
            Business Process mapping and Value Stream mapping for a Software services and licensing business. 
            
 ### Personal attributes 
